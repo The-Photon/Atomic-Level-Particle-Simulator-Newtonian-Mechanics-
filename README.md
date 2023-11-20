@@ -1,4 +1,4 @@
-# Atomic-Level-Particle-Simulator-Newtonian-Mechanics-
+# Atomic-Level-Particle-Simulator-With-Newtonian-Mechanics-
 Simulates subatomic particles using Newtonian Mechanics.
 
 
